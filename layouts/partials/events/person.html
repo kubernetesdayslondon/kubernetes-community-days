@@ -4,7 +4,7 @@
     <div class="card-content">
       <p class="title is-size-4 is-size-5-mobile">
         {{ if .person.homepage }}
-        <a href="{{ .homepage }}">
+        <a href="{{ .person.homepage }}">
           {{ .person.name }}
         </a>
         {{ else }}
@@ -26,7 +26,7 @@
       {{ with .person.twitter }}
       <br />
 
-      <a class="button is-twitter-blue">
+      <a href="{{ . }}" class="button is-twitter-blue">
         <span class="icon">
           <i class="fab fa-twitter"></i>
         </span>
