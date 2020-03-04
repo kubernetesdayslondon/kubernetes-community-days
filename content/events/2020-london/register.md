@@ -2,7 +2,7 @@
 title: Register
 ---
 
-The registration opens on March 6th 2020.
+The registration will open shortly.
 
 **Early bird price:** £119 (Until May 6th)
 
