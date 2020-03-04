@@ -2,6 +2,9 @@
 title: Sponsor
 ---
 
+> Invoices issued before March 16th will not incur VAT, so [request sponsorship ASAP](https://form.jotform.com/200432186845050) to get 20% off these prices!
+
+
 Kubernetes Community Days are community-organized, not-for-profit conferences for
 
    * Developers, Architects, Technical Specialists
@@ -17,8 +20,6 @@ The London 2020 event will attract 1500 attendees from London, the UK, Europe an
 ## Sponsorship details
 
 **Deadline:** July 6th
-
-**Invoices before March 16th will not incur VAT, so [request sponsorship ASAP](https://form.jotform.com/200432186845050) to get -20% on these prices. **
 
 Details                           | Platinum | Gold      | Silver
 ----------------------------------|----------|-----------|----------
